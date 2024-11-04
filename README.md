@@ -16,3 +16,9 @@ Here are some of the projects included in this repository:
 
  3.Temperature Converter : this project contains a java-based Temperature Converter. The application provides a user-fiendly interface and ensures accrate conversions.
  -> PROJECT INFO - (  Temperature Converter application designed to convert Celsius to  1.Kelvin 2.Fahrenheit 3.Rankine 4.Reaumur )
+
+4.Retraunt - This repository contains a Java-based Restaurant Application designed to provide a seamless and user-friendly experience for customers. The application  includes features such as login, logout, menu browsing, and checkout.
+ PROJECT INFO - ( User Authentication: Secure login and logout functionality.
+ Home Page: Browse through the veg and non-veg menu options.
+ Menu Options: Detailed veg and non-veg menus with item descriptions and prices.
+ Checkout: Easy and secure checkout process for placing orders. )
